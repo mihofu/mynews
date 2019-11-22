@@ -32,4 +32,5 @@ class CreateProfileTable extends Migration
     {
         Schema::dropIfExists('profile');
     }
+    
 }
